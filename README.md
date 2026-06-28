@@ -6,13 +6,13 @@ I build full-stack systems around community finance, risk and reputation engines
 
 ## Featured Projects
 
-### NebirroAPI
+### [NebirroAPI](https://github.com/Henysha/NebirroApi)
 Programmable financial infrastructure API with partner API keys, wallets, ledger-derived balances, transfers, idempotency, webhooks, React dashboard, Playwright E2E tests, and a TypeScript SDK.
 
-### TrustGraph Engine
+### [TrustGraph Engine](https://github.com/Henysha/trustgraph-engine)
 Explainable fintech risk and fraud engine with deterministic scoring, fraud alerts, review cases, API tests, demo scripts, and Playwright E2E tests.
 
-### CapitalCircle
+### [CapitalCircle](https://github.com/Henysha/capital-circle)
 Community capital platform for savings groups, pooled contributions, funding requests, approvals, and transparent ledger tracking.
 
 ## Core Stack
