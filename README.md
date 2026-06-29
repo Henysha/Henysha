@@ -2,7 +2,7 @@
 
 Software engineer building programmable financial infrastructure for trusted capital networks.
 
-**Portfolio:** https://henny-portfolio.vercel.app
+**Portfolio:** https://www.henokyared.com
 
 I build full-stack systems around community finance, risk and reputation engines, ledgers, API infrastructure, and developer-facing fintech tools.
 
